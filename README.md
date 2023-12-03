@@ -1,12 +1,14 @@
 # CupCake
 App de venda de CupCakes para o projeto de conclusão do curso bacharelado em engenharia de software
 
-SOBRE
+SOBRE:
+
 O nome do App é CupCake, ele faz uma simulação de venda de CupCakes de uma empresa, este é o projeto de conclusão do curso bacharelado em engenharia de software promovido pela universidade cruzeiro do sul.
 Neste APP é posível no nível da empresa, cadastrar empresas, produtos, configurar informações da empresa, visualizar pedidos, deletar produtos, finalizar pedidos
 No nível do cliente é possível cadastrar usuario, cadastrar informações do cliente, visualizar empresas cadastradas, visualizar cardápio, realizar pedidos.
 
-TECNOLOGIAS USADAS
+TECNOLOGIAS USADAS:
+
 •	JAVA
 •	XMLS
 •	MVVM
@@ -14,15 +16,18 @@ TECNOLOGIAS USADAS
 •	Navigation Component
 •	JUnit
 
-IDE UTILIZADA
+IDE UTILIZADA:
+
 •	Android Studio
 
-COMO UTILIZAR O PROJETO
+COMO UTILIZAR O PROJETO:
+
 1.	Você pode fazer o download do APP no google driver para testar clicando no link abaixo:
 2.	https://drive.google.com/drive/folders/1g_fGGYE2xmDHJIM7JtqNiWT_guabfU-Z?usp=sharing
 3.	Caso queira contribuir com melhorias você pode fazer o download do código fonte do projeto, colocar no seu computador utilizando a IDE Android Studio 
 
-COMO UTILIZAR O APP NÍVEL EMPRESA
+COMO UTILIZAR O APP NÍVEL EMPRESA:
+
 1.	Após ter feito o download do App, você precisa cadastrar um e-mail e senha com opção EMPRESA;
 2.	Após o cadastro utilize a tela de configurações para inserir os dados da sua empresa, imagem, nome da empresa, categoria da empresa, tempo de entrega de produtos e o valor de cada entrega;
 3.	Na tela de produto você pode adicionar o produtos com campos: Nome do produto, descrição e preço;
@@ -31,7 +36,8 @@ COMO UTILIZAR O APP NÍVEL EMPRESA
 6.	Você pode finalizar um pedido com um pressionamento longo na tela em cima do pedido.
 7.	Você pode deslogar da sua conta
 
-COMO UTILIZAR O APP NÍVEL CLIENTE
+COMO UTILIZAR O APP NÍVEL CLIENTE:
+
 1.	Após ter feito o download do App, você precisa cadastrar um e-mail e senha com opção para CLIENTE;
 2.	Após o cadastro utilize a tela de configurações para inserir os dados do cliente: Nome e endereço completo;
 3.	Na tela principal você visualiza todas as empresas cadastradas e pode pesquisar o nome das mesmas;
@@ -39,6 +45,7 @@ COMO UTILIZAR O APP NÍVEL CLIENTE
 5.	Você pode deslogar da sua conta.
 
 IMAGENS DO APP
+
 Empresa:
 
 
