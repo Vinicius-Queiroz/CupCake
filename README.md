@@ -1,7 +1,6 @@
 # CupCake
 App de venda de CupCakes para o projeto de conclusão do curso bacharelado em engenharia de software
 
-# CupCake_app
 SOBRE
 O nome do App é CupCake, ele faz uma simulação de venda de CupCakes de uma empresa, este é o projeto de conclusão do curso bacharelado em engenharia de software promovido pela universidade cruzeiro do sul.
 Neste APP é posível no nível da empresa, cadastrar empresas, produtos, configurar informações da empresa, visualizar pedidos, deletar produtos, finalizar pedidos
