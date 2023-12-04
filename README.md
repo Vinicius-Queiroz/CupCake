@@ -10,10 +10,15 @@ No nível do cliente é possível cadastrar usuario, cadastrar informações do 
 TECNOLOGIAS USADAS:
 
 •	JAVA
+
 •	XMLS
+
 •	MVVM
+
 •	Firebase
+
 •	Navigation Component
+
 •	JUnit
 
 IDE UTILIZADA:
@@ -56,7 +61,7 @@ Empresa:
 ![image](https://github.com/Vinicius-Queiroz/CupCake/assets/26033371/387d591b-9648-4eab-a46c-277a4784a2f6)
 
 
-CLIENTE:
+Cliente:
 
 
 ![image](https://github.com/Vinicius-Queiroz/CupCake/assets/26033371/62d56d92-f7df-4654-8e5d-af7a21b0baaf)
