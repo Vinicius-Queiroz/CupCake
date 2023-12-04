@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#d4d6ce"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textNomeRefeicao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="CupCake de Morango"
+        android:textColor="@color/common_google_signin_btn_text_dark_focused"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textDescricaoRefeicao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="Recheio de Morango com calda de cobertura"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textPreco"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="R$ 12.90"
+        android:textColor="#709305"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <include layout="@layout/divisor" />
+
+</LinearLayout>
